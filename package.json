@@ -1,0 +1,29 @@
+{
+  "name": "insta-web",
+  "version": "1.0.0",
+  "description": "the web client of a instagram social network clone developed using angular 1x and consuming an python django rest framewok API.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justlikedev/insta-web.git"
+  },
+  "keywords": [
+    "angular",
+    "nodejs",
+    "instagram",
+    "web"
+  ],
+  "author": "justlikedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justlikedev/insta-web/issues"
+  },
+  "homepage": "https://github.com/justlikedev/insta-web#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
